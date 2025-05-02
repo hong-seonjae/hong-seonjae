@@ -9,7 +9,8 @@
 
 ## 👋 Hi there!
 
-I'm **Seonjae Hong**, an aspiring **AI developer** passionate about creating AI that interacts with humans in meaningful ways.
+Hello!! I'm Seonjae Hong, an undergraduate student currently studying Artificial Intelligence.
+
 
 🎓 Currently studying at **Kookmin University**, majoring in **Software Engineering**  
 🧠 Initially inspired by **autonomous driving**, now exploring **brain-inspired AI**  
