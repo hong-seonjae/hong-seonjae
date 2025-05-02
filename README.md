@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Hello+I'm+Seonjae+Hong!;I'm+learning+hard+to+become+an+AI+developer.;Thanks+for+visiting!" />
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Hello+I'm+Seonjae+Hong!;I'm+learning+hard+to+become+an+AI+developer.;Thanks+for+visiting!" />
 </div>
+## 💻 Baekjoon Online Judge
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj1915)](https://solved.ac/hsj1915)
 
 ---
 
@@ -75,8 +78,6 @@ I am Seonjae, an undergraduate student currently studying Artificial Intelligenc
 ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
 
 ---
-[![BOJ](https://img.shields.io/badge/BOJ-hsj1915-1e90ff?style=flat&logo=codeforces&logoColor=white)](https://www.acmicpc.net/user/hsj1915)
-
 > "AI should not just imitate humans — it should **collaborate** with us."
 
 Thanks for visiting! 😊
