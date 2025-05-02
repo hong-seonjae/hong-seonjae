@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I+want+to+become+an+AI+developer;Enjoy+your+stay!" />
 
-</div>
-
 ## 🧪 Current Research
 
 | 분야 | 내용 |
@@ -12,7 +10,6 @@
 | 🧾 **전자결재 문서 생성 및 요약** | 윤수연 교수님 + HandySoft 기업과 공동 연구, 논문 작성 (한국통신학회) |
 | 🧹 **Noisy Label 학습** | 김영욱 교수님과 졸업 논문 진행 중 |
 | 🧑‍🔬 **XAI 학회 활동** | CV/NLP 논문 읽고 구현 및 토론 |
-
 
 
   <!--
