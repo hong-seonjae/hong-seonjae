@@ -13,8 +13,9 @@ Hello!! I'm Seonjae Hong, an undergraduate student currently studying Artificial
 
 
 🎓 Currently studying at **Kookmin University**, majoring in **Software Engineering**  
-🧠 I'm currently studying **multimodal learning**, and **model compression**, but my ultimate goal is to explore and contribute to the fusion of **brain science and artificial intelligence**.
-🔬 Goal: Develop models based on the **croc brain**, **midbrain**, and **neocortex**
+🧠 I'm currently studying **multimodal learning**, and **model compression**,
+🔬 Goal: Build brain-inspired AI models based on the croc brain, midbrain, and neocortex.
+
 
 ---
 
