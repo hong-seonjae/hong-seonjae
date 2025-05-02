@@ -16,7 +16,8 @@ I am Seonjae, an undergraduate student currently studying Artificial Intelligenc
 
 ## 🧪 Research & Activities
 
-- 🧠 Model Compression with Prof. Jangho Kim @ Kookmin University
+- 🧠 Undergraduate Research Assistant on Model Compression  
+  with Prof. Jangho Kim @ Kookmin University (since 2024.12.20)
 - 📄 LLM-based Document Generation & Summarization with Prof. Suyeon Yoon & HandySoft
 - 🧹 Learning from Noisy Labels with Prof. Youngwook Kim (Graduation Thesis)
 - 👨‍🔬 Member of XAI Academic Society — CV/NLP papers reading, discussion, and implementation
