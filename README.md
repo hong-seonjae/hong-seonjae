@@ -2,32 +2,29 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I+want+to+become+an+AI+developer;Enjoy+your+stay!" />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I+want+to+become+an+AI+developer;Enjoy+your+stay!" />
-
 </div>
 
 ---
 
 ## 👋 Hi there!
 
-Hello, I'm **Seonjae Hong**, an aspiring **AI developer** passionate about creating AI that interacts with humans in meaningful ways.
+I'm **Seonjae Hong**, an aspiring **AI developer** passionate about creating AI that interacts with humans in meaningful ways.
 
-🎓 I’m currently studying at **Kookmin University**, majoring in **Software Engineering**.  
-🧠 My interest began in **autonomous driving** and has grown into the fusion of **brain engineering + AI**.  
-🔍 My ultimate goal is to develop models inspired by the **human brain**, such as the **croc brain**, **midbrain**, and **neocortex**.
+🎓 Currently studying at **Kookmin University**, majoring in **Software Engineering**  
+🧠 Initially inspired by **autonomous driving**, now exploring **brain-inspired AI**  
+🔬 Goal: Develop models based on the **croc brain**, **midbrain**, and **neocortex**
 
 ---
 
 ## 🧪 Research & Activities
 
 - 🧠 Model Compression with Prof. Jangho Kim @ Kookmin University
-- 📄 LLM-based Document Generation & Summarization with Prof. Suyeon Yoon and HandySoft  
-- 🧹 Learning from Noisy Labels with Prof. Youngwook Kim (Graduation Thesis)  
-- 🧑‍🔬 Member of XAI (Explainable AI) Academic Society — reading & implementing CV/NLP papers
+- 📄 LLM-based Document Generation & Summarization with Prof. Suyeon Yoon & HandySoft
+- 🧹 Learning from Noisy Labels with Prof. Youngwook Kim (Graduation Thesis)
+- 👨‍🔬 Member of XAI Academic Society — CV/NLP papers reading, discussion, and implementation
 
 ---
+
 ## 📫 Contact
 
 | Platform | Link |
@@ -37,6 +34,7 @@ Hello, I'm **Seonjae Hong**, an aspiring **AI developer** passionate about creat
 | 📸 Instagram | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seonjae_0915/) |
 | ✉️ Email | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ghdtjswo1915@kookmin.ac.kr) |
 
+---
 
 ## ⚙ Tech Stack
 
@@ -67,26 +65,8 @@ Hello, I'm **Seonjae Hong**, an aspiring **AI developer** passionate about creat
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
 
-
 ---
 
-> “AI should not just imitate humans — it should **collaborate** with us.”
+> "AI should not just imitate humans — it should **collaborate** with us."
 
 Thanks for visiting! 😊
-
-
-
-  <!--
-  **hong-seonjae/hong-seonjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  
-  Here are some ideas to get you started:
-  
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-  -->
