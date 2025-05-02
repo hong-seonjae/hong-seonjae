@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I+want+to+become+an+AI+developer;Enjoy+your+stay!" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I+want+to+become+an+AI+developer;Enjoy+your+stay!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=Hello,+I'm+Seonjae+Hong!;I'm+actively+learning+and+building+projects+to+become+an+AI+developer.;Thanks+for+visiting!" />
 
 </div>
+
 
 ---
 
