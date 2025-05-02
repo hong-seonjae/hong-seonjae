@@ -1,7 +1,9 @@
-  ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub!;I'm+a+developer.;Enjoy+your+stay!&center=true&width=1000)
-  
-  
-  
+<div align="center">
+
+<img src="https://github.com/your-username/your-repo/blob/main/assets/banner.png?raw=true" width="1000"/>
+
+</div>
+
   <!--
   **hong-seonjae/hong-seonjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
