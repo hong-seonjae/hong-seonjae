@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/your-username/your-repo/blob/main/assets/banner.png?raw=true" width="1000"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;I'm+a+developer.;Enjoy+your+stay!" />
 
 </div>
+
 
   <!--
   **hong-seonjae/hong-seonjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
