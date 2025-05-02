@@ -6,7 +6,7 @@
 ---
 
 ## 👋 Hi there!
-I am Seonjae, an undergraduate student currently studying Artificial Intelligence.
+I am Seonjae, an undergraduate student currently studying Artificial Intelligence. <br>
 🎓 Currently studying at Kookmin University, majoring in **Software Engineering**<br>
 🧠 I'm currently studying **multimodal learning** and **model compression**<br>
 🔬 Goal: Build brain-inspired AI models based on the croc brain, midbrain, and neocortex.
