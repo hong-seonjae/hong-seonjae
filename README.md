@@ -34,7 +34,7 @@ Hello, I'm **Seonjae Hong**, an aspiring **AI developer** passionate about creat
 | Platform | Link |
 |----------|------|
 | 📘 Notion | [Notion Page](https://your-notion-link.com) |
-| ✍️ Tistory | [Blog](https://your-tistory.com) |
+| ✍️ Velog | [Blog](https://velog.io/@hsj1915/series) |
 | 📸 Instagram | [@your_handle](https://instagram.com/your_handle) |
 | ✉️ Email | your.email@example.com |
 
