@@ -29,16 +29,13 @@ Hello, I'm **Seonjae Hong**, an aspiring **AI developer** passionate about creat
 
 ---
 
-## 📫 Contact
-
 | Platform | Link |
 |----------|------|
 | 💼 LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%99%8D%EC%84%A0%EC%9E%AC-undefined-84230233b/) |
 | ✍️ Velog | [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@hsj1915/series) |
 | 📸 Instagram | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seonjae_0915/) |
-| ✉️ Email | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](ghdtjswo1915@kookmin.ac.kr) |
+| ✉️ Email | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ghdtjswo1915@kookmin.ac.kr) |
 
----
 
 ## ⚙ Tech Stack
 
