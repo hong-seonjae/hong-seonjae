@@ -1,6 +1,5 @@
-<div align="center">
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub!;I'm+a+developer.;Enjoy+your+stay!&center=true&width=500)
-</div>
+
 
 
 <!--
