@@ -75,6 +75,7 @@ I am Seonjae, an undergraduate student currently studying Artificial Intelligenc
 ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
 
 ---
+[![BOJ](https://img.shields.io/badge/BOJ-hsj1915-1e90ff?style=flat&logo=codeforces&logoColor=white)](https://www.acmicpc.net/user/hsj1915)
 
 > "AI should not just imitate humans — it should **collaborate** with us."
 
