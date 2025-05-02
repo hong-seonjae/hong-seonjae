@@ -32,10 +32,9 @@ Hello!! I'm Seonjae Hong, an undergraduate student currently studying Artificial
 - 🧾 **NLP (Natural Language Processing)**: 언어 이해 및 생성
 - 🔀 **Multimodal Learning**: 텍스트 + 이미지 등 다양한 입력 통합 학습
 - 🚗 **Autonomous Driving**: 자율주행을 위한 인지 및 제어 기술
+- ⚙️ **Model Compression / Quantization**: AI 모델 경량화 및 최적화
 - 🧠 **Brain Engineering**: 인간의 뇌 구조와 기능을 모방한 AI 연구
 - 🧩 **Cognitive Modeling**: 인간 사고 과정을 모사하는 인지 모델링
-- ⚙️ **Model Compression / Quantization**: AI 모델 경량화 및 최적화
-- 🧠 **Neuro-symbolic AI**: 딥러닝 + 논리 기반 추론을 결합한 지능형 시스템
 ---
 ## 📫 Contact
 
