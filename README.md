@@ -82,7 +82,7 @@ Thanks for visiting! 😊
   <summary>💻 Baekjoon Online Judge</summary>
 
   <br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj1915)](https://solved.ac/profile/hsj1915)
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj1915)](https://solved.ac/hsj1915)
 
 </details>
