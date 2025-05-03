@@ -35,51 +35,12 @@ I am Seonjae, an undergraduate student currently studying Artificial Intelligenc
 ---
 # 📫 Contact
 
-<h2>📫 Contact</h2>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>Platform</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">💼<br>LinkedIn</td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/%ED%99%8D%EC%84%A0%EC%9E%AC-undefined-84230233b/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">✍️<br>Velog</td>
-      <td align="center">
-        <a href="https://velog.io/@hsj1915/series" target="_blank">
-          <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">📸<br>Instagram</td>
-      <td align="center">
-        <a href="https://www.instagram.com/seonjae_0915/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">✉️<br>Email</td>
-      <td align="center">
-        <a href="mailto:ghdtjswo1915@kookmin.ac.kr">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%99%8D%EC%84%A0%EC%9E%AC-undefined-84230233b/) |
+| ✍️ Velog | [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@hsj1915/series) |
+| 📸 Instagram | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seonjae_0915/) |
+| ✉️ Email | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ghdtjswo1915@kookmin.ac.kr) |
 
 ---
 
@@ -128,7 +89,7 @@ Thanks for visiting! 😊
 
 
 <!--
-**hong-seonjae/hong-seonjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hong-seonjae/hong-seonjae** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
