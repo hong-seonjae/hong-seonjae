@@ -83,7 +83,7 @@ Thanks for visiting! 😊
 
   <br>
   <a href="https://solved.ac/profile/hsj1915" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj1915" alt="Solved.ac Profile"/>
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hsj1915" alt="Solved.ac Profile"/>
   </a>
 </details>
 
