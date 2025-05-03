@@ -4,7 +4,7 @@
 </div>
 
 
-## 👋 Hi there!
+# 👋 Hi there!
 I am Seonjae, an undergraduate student currently studying Artificial Intelligence. <br>
 🎓 Currently studying at Kookmin University, majoring in **Software Engineering**<br>
 🧠 I'm currently studying **multimodal learning** and **model compression**<br>
@@ -13,7 +13,7 @@ I am Seonjae, an undergraduate student currently studying Artificial Intelligenc
 
 ---
 
-## 🧪 Research & Activities
+# 🧪 Research & Activities
 
 - 🧠 Undergraduate Research Assistant on Model Compression with Prof. Jangho Kim @ Kookmin University (since 2024.12.20)
 - 📄 LLM-based Document Generation & Summarization with Prof. Suyeon Yoon & HandySoft
@@ -21,7 +21,7 @@ I am Seonjae, an undergraduate student currently studying Artificial Intelligenc
 - 👨‍🔬 Member of XAI Academic Society — CV/NLP papers reading, discussion, and implementation
 
 ---
-## 🎯 Research Interests
+# 🎯 Research Interests
 
 - 👁 **Computer Vision (CV)**: 이미지 및 영상 기반 인식과 분석 기술  
 - 🧾 **Natural Language Processing (NLP)**: 언어 이해 및 생성 기술  
@@ -33,7 +33,7 @@ I am Seonjae, an undergraduate student currently studying Artificial Intelligenc
 - 🧩 **Cognitive Modeling**: 인간의 사고 과정을 시뮬레이션하는 이론 및 모델 개발
 
 ---
-## 📫 Contact
+# 📫 Contact
 
 | Platform | Link |
 |----------|------|
@@ -44,7 +44,7 @@ I am Seonjae, an undergraduate student currently studying Artificial Intelligenc
 
 ---
 
-## ⚙ Tech Stack
+# ⚙ Tech Stack
 
 ### 💻 Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
