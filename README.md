@@ -58,7 +58,7 @@ I am Seonjae, an undergraduate student currently studying Artificial Intelligenc
 [![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain&logoColor=white)](https://www.langchain.com/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
-[![YOLO](https://img.shields.io/badge/YOLO-FFBB00?style=flat&logo=yolo&logoColor=black)](https://github.com/AlexeyAB/darknet)
+[![YOLOv5](https://img.shields.io/badge/YOLOv5-by%20Ultralytics-222?style=flat&logo=github&logoColor=white)](https://github.com/ultralytics/yolov5)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/tensorboard)
