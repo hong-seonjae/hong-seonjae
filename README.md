@@ -19,18 +19,15 @@ I am Seonjae, an undergraduate student currently studying Artificial Intelligenc
 - 📄 LLM-based Document Generation & Summarization with Prof. Suyeon Yoon & HandySoft
 - 🧹 Learning from Noisy Correspondence with Prof. Youngwook Kim (Graduation Thesis)
 - 👨‍🔬 Member of XAI Academic Society — CV/NLP papers reading, discussion, and implementation
+- 🚗 Top 5 Team, 6th Kookmin Univ. Autonomous Driving Challenge — Camera-based lane detection, object detection, high-speed control (2024)
 
 ---
 # 🎯 Research Interests
 
-- 👁 **Computer Vision (CV)**: 이미지 및 영상 기반 인식과 분석 기술  
-- 🧾 **Natural Language Processing (NLP)**: 언어 이해 및 생성 기술  
 - 🔀 **Multimodal Learning**: 텍스트, 이미지 등 다양한 입력을 통합하여 학습하는 기술  
 - 📚 **Large Language Models (LLMs)**: 인간 언어를 이해하고 생성하도록 훈련된 AI 모델  
-- 🚗 **Autonomous Driving**: 차량의 인지 및 제어를 자동화하는 기술  
 - ⚙️ **Model Compression / Quantization**: AI 모델을 더 작고 빠르게 만드는 최적화 기술  
 - 🧠 **Brain Engineering**: 인간 뇌의 구조와 기능을 모방한 인공지능 연구  
-- 🧩 **Cognitive Modeling**: 인간의 사고 과정을 시뮬레이션하는 이론 및 모델 개발
 
 ---
 # 📫 Contact
