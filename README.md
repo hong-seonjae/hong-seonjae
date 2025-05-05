@@ -19,7 +19,7 @@ I am Seonjae, an undergraduate student currently studying Artificial Intelligenc
 - 📄 LLM-based Document Generation & Summarization with Prof. Suyeon Yoon & HandySoft
 - 🧹 Learning from Noisy Correspondence with Prof. Youngwook Kim (Graduation Thesis)
 - 👨‍🔬 Member of XAI Academic Society — CV/NLP papers reading, discussion, and implementation
-- 🚗 Top 5 Team, 6th Kookmin Univ. Autonomous Driving Challenge — Camera-based lane detection, object detection, high-speed control (2024)
+- 🚗 Top 5, 6th Kookmin Univ. Autonomous Driving Challenge — Camera-based lane detection, object detection, high-speed control (2023)
 
 ---
 # 🎯 Research Interests
