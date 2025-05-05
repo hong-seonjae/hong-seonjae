@@ -18,7 +18,7 @@ I am Seonjae, an undergraduate student currently studying Artificial Intelligenc
 - 🧠 Undergraduate Research Assistant on Model Compression with Prof. Jangho Kim @ Kookmin University (since 2024.12.20)
 - 📄 LLM-based Document Generation & Summarization with Prof. Suyeon Yoon & HandySoft
 - 🧹 Learning from Noisy Correspondence with Prof. Youngwook Kim (Graduation Thesis)
-- 👨‍🔬 Member of XAI, the AI Research Society at Kookmin University (Department of AI, Big Data) — CV/NLP paper reading, discussion & implementation
+- 👨‍🔬 Member of XAI, the AI Research Society at Kookmin University — CV/NLP paper reading, discussion & implementation
 - 🚗 Top 5, 6th Kookmin Univ. Autonomous Driving Challenge — Camera-based lane detection, object detection, high-speed control (2023)
 
 ---
