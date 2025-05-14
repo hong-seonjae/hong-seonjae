@@ -24,9 +24,11 @@ I am Seonjae, an undergraduate student currently studying Artificial Intelligenc
 ---
 # 🎯 Research Interests
 
+- 📷 **Computer Vision (CV)**: 이미지 분류, 객체 탐지 시각 정보를 정밀하게 해석하는 인공지능 기술  
+- 💬 **Natural Language Processing (NLP)**: 텍스트 데이터를 이해하고 생성하는 언어 기반 딥러닝 모델  
+- 🔍 **Noisy Correspondence**: 이미지-텍스트 쌍 간 잘못된 대응 관계를 정제하여 멀티모달 정합성을 높이는 학습 기법  
 - 🔀 **Multimodal Learning**: 텍스트, 이미지 등 다양한 입력을 통합하여 학습하는 기술  
 - 📚 **Large Language Models (LLMs)**: 인간 언어를 이해하고 생성하도록 훈련된 AI 모델  
-- ⚙️ **Model Compression / Quantization**: AI 모델을 더 작고 빠르게 만드는 최적화 기술  
 - 🧠 **Brain Engineering**: 인간 뇌의 구조와 기능을 모방한 인공지능 연구  
 
 ---
