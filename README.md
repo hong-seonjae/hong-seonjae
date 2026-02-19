@@ -1,4 +1,4 @@
-\# 👋 Hi there!
+# 👋 Hi there!
 
 Graduate of Kookmin University with a degree in Artificial Intelligence.
 
